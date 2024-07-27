@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Sqids Unreal Implementation",
+	"Description": "Sqids (pronounced \"squids\") is a small library that lets you generate YouTube-looking IDs from numbers.",
+	"Category": "Utilities",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "Sqids",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

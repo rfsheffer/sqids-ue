@@ -1,0 +1,3 @@
+[submodule "Source/Thirdparty/sqids-cpp"]
+	path = Source/Thirdparty/sqids-cpp
+	url = git@github.com:sqids/sqids-cpp.git
