@@ -13,6 +13,7 @@ public class Sqids : ModuleRules
     {
 	    OptimizeCode = CodeOptimization.Never;
 	    PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
+	    bEnableExceptions = true;
 
 		PrivateIncludePaths.AddRange(
             new string[]
